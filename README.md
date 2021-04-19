@@ -2,16 +2,17 @@
 ###### *(an absolutely SFW game, suitable for your kids!)*
 
 ### Table of Contents
-* [What?](#what)  
+* [What is this?](#what)  
 * [Download](#download) 
-* [Installation](#installation) 
 * [Controls](#controls)
-* [Credits](#credits)
+* [Installation](#installation) 
 * [Connect](#connect)
+* [Credits](#credits)
 
 <a name="what"></a>
-# What?
-This is my attempt of [CS50 Game Development's Pong tutorial](https://github.com/cs50/gd50/tree/master/pong). In my version, the game view is rotate to vertical. And don't even ask me about the title 👀
+# What is this?
+This is my attempt of [CS50 Game Development's Pong game tutorial](https://github.com/cs50/gd50/tree/master/pong). In my version, the game view is rotate to vertical. 
+Don't ask me about the title 👀
 
 ![Gameplay](./Screenshots/gameplay.gif "Gameplay")
 
