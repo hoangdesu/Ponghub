@@ -7,7 +7,8 @@
 * [Installation](#installation) 
 * [Controls](#controls)
 * [Credits](#credits)
-  
+* [Connect](#connect)
+
 <a name="what"></a>
 ## What?
 This is my attempt of [CS50 Game Development's Pong tutorial](https://github.com/cs50/gd50/tree/master/pong). In my version, the game view is rotate to vertical. And don't even ask me about the title 👀
@@ -20,7 +21,7 @@ This is my attempt of [CS50 Game Development's Pong tutorial](https://github.com
 <a name="installation"></a>
 ## Installation
 If you want to compile the game yourself, you'd need Lua and LÖVE2D framework.
-If you are on a Mac, you can install using Brew:
+If you are on a Mac, you can follow this instruction:
 1. Install Lua:
 ```
 brew install lua
@@ -28,7 +29,7 @@ brew install lua
 
 2. Install LÖVE2D:
 ```
-brew install --cask love
+git clone https://github.com/love2d/love
 ```
 
 3. Add love alias to your PATH:
@@ -71,8 +72,20 @@ The blinking player is the server.
 
 ![victory](./Screenshots/victory.png "Victory")
 
+<a name="connect"></a>
+## Connect with me
+* My [Facebook](https://www.facebook.com/Hoangdayo/)
+* My [Instagram](https://www.instagram.com/hoang.desu/)
+* [Hit me up](tel:0913172602) for a coffee and talk just about everything!
+* Shoot me an [email](mailto:hoangdesu@gmail.com) too
+
+
 <a name="credits"></a>
 ### Credits
+* [CS50's Pong github](https://github.com/cs50/gd50/tree/master/pong)
+* BGM: Harvest Moon: A Wonderful Life - Breeze (my childhood)
+
+
 
 
 
