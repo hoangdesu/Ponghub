@@ -33,7 +33,7 @@ The blinking player is the server.
 * Serve: S
 ##### Player 2 (bottom dude):
 * Move: ⬅️ ➡️ (left/right arrow keys)
-* Serve: ⬆️ (up arrow keys)
+* Serve: ⬆️ (up arrow key)
 
 **ESC**: go back
 **M**: mute sound
